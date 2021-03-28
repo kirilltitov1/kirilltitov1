@@ -3,5 +3,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirilltitov1&count_private=false&show_icons=true)
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kirilltitov1)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kirilltitov1&count_private=false&show_icons=true)
 
